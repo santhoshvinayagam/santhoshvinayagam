@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshvinayagam&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshvinayagam" /> </p>
 
+<picture> <img align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width = 250px></picture>
+
 <p align="left"> <a href="https://twitter.com/santhosh74488" target="blank"><img src="https://img.shields.io/twitter/follow/santhosh74488?logo=twitter&style=for-the-badge" alt="santhosh74488" /></a> </p>
 
 - 🌱 I’m currently learning **Kotlin**
